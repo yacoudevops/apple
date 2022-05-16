@@ -1,0 +1,8 @@
+print('Boina')
+print('Irene')
+print('Ivo')
+print('Diana')
+print('Apple')
+print('Rose')
+print('Dri')
+print('Ismael')
